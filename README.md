@@ -44,7 +44,7 @@ for filename in nuds/*.xml; do
 done 
 ```
 
-If the data you wish to load isn't already in NUDS format you may be interested in contributing to [csv-nuds](/esnible/csv-nuds), a project aiming to convert the [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) output of spreadseets and databases into NUDS.
+If the data you wish to load isn't already in NUDS format you may be interested in contributing to [csv-nuds](https://github.com/esnible/csv-nuds), a project aiming to convert the [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) output of spreadseets and databases into NUDS.
 
 # Mantainence
 
